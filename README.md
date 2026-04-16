@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm alkeshjat 👋</h1>
+<h1 align="center">Hi there, I'm Alkesh Jat 👋</h1>
 
 <p align="center">
   A curious student who turns caffeine into code ☕ → 💻<br>
